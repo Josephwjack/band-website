@@ -3,7 +3,11 @@ body {
   }
   
 img {
- float: left;
+ /* float: left; */
+ margin: auto;
+ width: 80%;
+ display: block;
+ margin-bottom: 40px;
 }
 
 h1 {
